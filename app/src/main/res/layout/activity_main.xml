@@ -288,7 +288,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center|bottom"
-        android:text="New Match"
+        android:text="RESET"
         android:layout_margin="2dp"
         android:onClick="reset"
         />
