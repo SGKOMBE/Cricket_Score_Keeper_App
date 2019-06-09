@@ -19,7 +19,7 @@ A score keeper app for the game of **Cricket**.It includes following funtionalit
 ![alt text](Design/result.png "Displays Result of match and a message to reset if still buttons are clicked.")  
 
 ## **Credits**
-I have developed this project as a part of Udacity's Android Basics course with the resources provided by them.I have **shared** this project so that other students/developers can use it as a **reference** for learning and most importantly for my **Personal Visibility**.This project can also be developed for learning any other language apart from Miwok language.Also English can be replaced with any regional language.  
+I have developed this project as a part of Udacity's Android Basics course with the resources provided by them.I have **shared** this project so that other students/developers can use it as a **reference for learning** and most importantly for my **Personal Visibility**.  
 
 ## **Warning**  
 This project was submitted by Sumit Kombe to Udacity, the use of this project for **Plagiarism** is not at all entertained.Udacity has clearly mentioned in their policy that **Plagiarism is strictly prohibited** and if someone found guilty will result in his/her Account Ban on Udacity.So be a responsible developer and **Say No To Plagiarism**.  
